@@ -68,3 +68,19 @@ h1 {
     background-color: #a2d870;
 }
 
+.wallet {
+    display: block;
+    max-width: 400px;
+    width: 100%;
+    margin: 2rem auto; 
+    border-radius: 10px;
+}
+
+p {
+    max-width: 600px;      /* limits how wide the paragraph can be */
+    margin: 1rem auto;     /* auto left/right margin centers it */
+    font-size: 20px;
+    color: #265e2d;
+}
+
+
