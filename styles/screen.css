@@ -76,6 +76,23 @@ h1 {
     border-radius: 10px;
 }
 
+.ipad{
+    display: block;
+    max-width: 400px;
+    width: 100%;
+    margin: 2rem auto; 
+    border-radius: 10px;
+}
+
+.beats{
+    display: block;
+    max-width: 300px;
+    width: 100%;
+    margin: 2rem auto; 
+    border-radius: 10px;
+
+}
+
 p {
     max-width: 600px;      /* limits how wide the paragraph can be */
     margin: 1rem auto;     /* auto left/right margin centers it */
